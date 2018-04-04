@@ -33,7 +33,7 @@ App({
     })
   },
   globalData: {
-    host: 'http://developer.189.cn',
+    host: 'http://localhost',
     userInfo: null
   }
 })
