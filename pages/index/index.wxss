@@ -1,0 +1,19 @@
+/**index.wxss**/
+
+.matter {
+  border: 1rpx solid #ccc;
+  border-radius: 4rpx;
+}
+
+.matter-title, .matter-summary {
+  padding: 16rpx;
+}
+
+.matter-summary {
+  color: #999;
+  font-size: 0.9em;
+}
+
+.entry {
+  margin-top: 48rpx;
+}
